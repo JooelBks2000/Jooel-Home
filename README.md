@@ -1,23 +1,3 @@
-# Build a blog using Nest.js, Vue.js and MongoDB
-
-Application repo for a simple blog application built with Nest.js, Vue.js and MongoDB.
-
-## Getting Started
-This prototype is divided into two separate sections. Namely the Backend ( Built with Nest.js) and the frontend
-( Built with Vue.js ).
-
-### Clone the repository
-To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `blog-backend` and `blog-frontend`)
-
-```bash
-git clone https://github.com/yemiwebby/nest-vue-project.git
-```
-
-## Change directory into the newly cloned project
-```bash
-cd nest-vue-project
-```
-
 ## Backend
 ### Change directory into the backend
 ```bash
